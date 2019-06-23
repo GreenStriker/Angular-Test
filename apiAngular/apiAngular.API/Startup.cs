@@ -30,6 +30,7 @@ namespace apiAngular.API
             //services.AddDbContext<DataContext>.(x=>x.UseSqlServer(Configuration.GetConnectionString("DefaultConnection")));
             services.AddDbContext<DataContext>(x => x.UseSqlServer(Configuration.GetConnectionString("DefaultConnection")));
             services.AddMvc().SetCompatibilityVersion(CompatibilityVersion.Version_2_2);
+            services.AddCors();
             
         }
 
@@ -47,6 +48,8 @@ namespace apiAngular.API
             }
 
             // app.UseHttpsRedirection();
+
+            app.UseCors(x => x.AllowAnyOrigin().AllowAnyMethod().AllowAnyHeader());
             app.UseMvc();
         }
     }
