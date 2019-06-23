@@ -26,3 +26,17 @@ E:\angular\Angular\Angular-Application\apiAngular\apiAngular.API\bin\Debug\netco
 E:\angular\Angular\Angular-Application\apiAngular\apiAngular.API\bin\Debug\netcoreapp2.2\apiAngular.API.dll
 E:\angular\Angular\Angular-Application\apiAngular\apiAngular.API\bin\Debug\netcoreapp2.2\apiAngular.API.pdb
 E:\angular\Angular\Angular-Application\apiAngular\apiAngular.API\obj\Debug\netcoreapp2.2\apiAngular.API.RazorTargetAssemblyInfo.cache
+E:\AngularProject GIT\Angular-Test\apiAngular\apiangular.api\obj\Debug\netcoreapp2.2\apiAngular.API.csprojAssemblyReference.cache
+E:\AngularProject GIT\Angular-Test\apiAngular\apiangular.api\obj\Debug\netcoreapp2.2\apiAngular.API.csproj.CoreCompileInputs.cache
+E:\AngularProject GIT\Angular-Test\apiAngular\apiangular.api\obj\Debug\netcoreapp2.2\apiAngular.API.RazorAssemblyInfo.cache
+E:\AngularProject GIT\Angular-Test\apiAngular\apiangular.api\obj\Debug\netcoreapp2.2\apiAngular.API.RazorAssemblyInfo.cs
+E:\AngularProject GIT\Angular-Test\apiAngular\apiangular.api\obj\Debug\netcoreapp2.2\apiAngular.API.AssemblyInfoInputs.cache
+E:\AngularProject GIT\Angular-Test\apiAngular\apiangular.api\obj\Debug\netcoreapp2.2\apiAngular.API.AssemblyInfo.cs
+E:\AngularProject GIT\Angular-Test\apiAngular\apiangular.api\obj\Debug\netcoreapp2.2\apiAngular.API.dll
+E:\AngularProject GIT\Angular-Test\apiAngular\apiangular.api\obj\Debug\netcoreapp2.2\apiAngular.API.pdb
+E:\AngularProject GIT\Angular-Test\apiAngular\apiangular.api\bin\Debug\netcoreapp2.2\apiAngular.API.deps.json
+E:\AngularProject GIT\Angular-Test\apiAngular\apiangular.api\bin\Debug\netcoreapp2.2\apiAngular.API.runtimeconfig.json
+E:\AngularProject GIT\Angular-Test\apiAngular\apiangular.api\bin\Debug\netcoreapp2.2\apiAngular.API.runtimeconfig.dev.json
+E:\AngularProject GIT\Angular-Test\apiAngular\apiangular.api\bin\Debug\netcoreapp2.2\apiAngular.API.dll
+E:\AngularProject GIT\Angular-Test\apiAngular\apiangular.api\bin\Debug\netcoreapp2.2\apiAngular.API.pdb
+E:\AngularProject GIT\Angular-Test\apiAngular\apiangular.api\obj\Debug\netcoreapp2.2\apiAngular.API.RazorTargetAssemblyInfo.cache

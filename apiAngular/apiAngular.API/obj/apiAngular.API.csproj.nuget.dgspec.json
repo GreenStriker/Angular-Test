@@ -1,23 +1,23 @@
 {
   "format": 1,
   "restore": {
-    "E:\\angular\\Angular\\Angular-Application\\apiAngular\\apiAngular.API\\apiAngular.API.csproj": {}
+    "E:\\AngularProject GIT\\Angular-Test\\apiAngular\\apiangular.api\\apiAngular.API.csproj": {}
   },
   "projects": {
-    "E:\\angular\\Angular\\Angular-Application\\apiAngular\\apiAngular.API\\apiAngular.API.csproj": {
+    "E:\\AngularProject GIT\\Angular-Test\\apiAngular\\apiangular.api\\apiAngular.API.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "E:\\angular\\Angular\\Angular-Application\\apiAngular\\apiAngular.API\\apiAngular.API.csproj",
+        "projectUniqueName": "E:\\AngularProject GIT\\Angular-Test\\apiAngular\\apiangular.api\\apiAngular.API.csproj",
         "projectName": "apiAngular.API",
-        "projectPath": "E:\\angular\\Angular\\Angular-Application\\apiAngular\\apiAngular.API\\apiAngular.API.csproj",
-        "packagesPath": "C:\\Users\\mustafiz.rahman1645\\.nuget\\packages\\",
-        "outputPath": "E:\\angular\\Angular\\Angular-Application\\apiAngular\\apiAngular.API\\obj\\",
+        "projectPath": "E:\\AngularProject GIT\\Angular-Test\\apiAngular\\apiangular.api\\apiAngular.API.csproj",
+        "packagesPath": "C:\\Users\\sabbir.reza\\.nuget\\packages\\",
+        "outputPath": "E:\\AngularProject GIT\\Angular-Test\\apiAngular\\apiangular.api\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
         ],
         "configFilePaths": [
-          "C:\\Users\\mustafiz.rahman1645\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\sabbir.reza\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -52,9 +52,9 @@
               "target": "Package",
               "version": "[2.2.0, )"
             },
-            "Microsoft.EntityFrameworkCore.Sqlite": {
+            "Microsoft.EntityFrameworkCore.SqlServer": {
               "target": "Package",
-              "version": "[2.2.1, )"
+              "version": "[2.2.0, )"
             },
             "Microsoft.NETCore.App": {
               "suppressParent": "All",
