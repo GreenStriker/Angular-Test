@@ -4,6 +4,7 @@ using System.Linq;
 using System.Threading.Tasks;
 using Microsoft.AspNetCore.Mvc;
 using apiAngular.API.Data;
+
 namespace apiAngular.API.Controllers
 {
 
@@ -28,13 +29,13 @@ namespace apiAngular.API.Controllers
         }
 
         // GET api/values/5
-        // [HttpGet("{id}")]
-        // public IActionResult GetValue(int id)
-        // {
-        //     // var values = _context.Values.FristOrDefault(x => x.Id == id);
+        [HttpGet("{id}")]
+        public IActionResult GetValue(int id)
+        {
+            var values = _context.Value.Where(x => x.Id == id);
 
-        //     return 0;
-        // }
+            return Ok(values);
+        }
 
         // POST api/values
         [HttpPost]

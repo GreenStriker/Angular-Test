@@ -12075,23 +12075,23 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\sabbir.reza\\.nuget\\packages\\": {},
+    "C:\\Users\\mustafiz.rahman1645\\.nuget\\packages\\": {},
     "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "E:\\AngularProject GIT\\Angular-Test\\apiAngular\\apiangular.api\\apiAngular.API.csproj",
+      "projectUniqueName": "E:\\angular\\Angular\\Angular-Application\\Angular-Test\\apiAngular\\apiAngular.API\\apiAngular.API.csproj",
       "projectName": "apiAngular.API",
-      "projectPath": "E:\\AngularProject GIT\\Angular-Test\\apiAngular\\apiangular.api\\apiAngular.API.csproj",
-      "packagesPath": "C:\\Users\\sabbir.reza\\.nuget\\packages\\",
-      "outputPath": "E:\\AngularProject GIT\\Angular-Test\\apiAngular\\apiangular.api\\obj\\",
+      "projectPath": "E:\\angular\\Angular\\Angular-Application\\Angular-Test\\apiAngular\\apiAngular.API\\apiAngular.API.csproj",
+      "packagesPath": "C:\\Users\\mustafiz.rahman1645\\.nuget\\packages\\",
+      "outputPath": "E:\\angular\\Angular\\Angular-Application\\Angular-Test\\apiAngular\\apiAngular.API\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
       ],
       "configFilePaths": [
-        "C:\\Users\\sabbir.reza\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\mustafiz.rahman1645\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
