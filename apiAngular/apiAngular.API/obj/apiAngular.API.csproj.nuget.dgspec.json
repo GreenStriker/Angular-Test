@@ -1,23 +1,23 @@
 {
   "format": 1,
   "restore": {
-    "D:\\Angular\\New folder\\Angular-Application\\apiAngular\\apiAngular.API\\apiAngular.API.csproj": {}
+    "E:\\angular\\Angular\\Angular-Application\\apiAngular\\apiAngular.API\\apiAngular.API.csproj": {}
   },
   "projects": {
-    "D:\\Angular\\New folder\\Angular-Application\\apiAngular\\apiAngular.API\\apiAngular.API.csproj": {
+    "E:\\angular\\Angular\\Angular-Application\\apiAngular\\apiAngular.API\\apiAngular.API.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Angular\\New folder\\Angular-Application\\apiAngular\\apiAngular.API\\apiAngular.API.csproj",
+        "projectUniqueName": "E:\\angular\\Angular\\Angular-Application\\apiAngular\\apiAngular.API\\apiAngular.API.csproj",
         "projectName": "apiAngular.API",
-        "projectPath": "D:\\Angular\\New folder\\Angular-Application\\apiAngular\\apiAngular.API\\apiAngular.API.csproj",
-        "packagesPath": "C:\\Users\\Moukh\\.nuget\\packages\\",
-        "outputPath": "D:\\Angular\\New folder\\Angular-Application\\apiAngular\\apiAngular.API\\obj\\",
+        "projectPath": "E:\\angular\\Angular\\Angular-Application\\apiAngular\\apiAngular.API\\apiAngular.API.csproj",
+        "packagesPath": "C:\\Users\\mustafiz.rahman1645\\.nuget\\packages\\",
+        "outputPath": "E:\\angular\\Angular\\Angular-Application\\apiAngular\\apiAngular.API\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
         ],
         "configFilePaths": [
-          "C:\\Users\\Moukh\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\mustafiz.rahman1645\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -54,7 +54,7 @@
             },
             "Microsoft.EntityFrameworkCore.Sqlite": {
               "target": "Package",
-              "version": "[2.2.2, )"
+              "version": "[2.2.1, )"
             },
             "Microsoft.NETCore.App": {
               "suppressParent": "All",

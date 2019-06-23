@@ -12,6 +12,7 @@ namespace apiAngular.API.Controllers
     public class ValuesController : ControllerBase
     {
         private readonly DataContext _context;
+
         public ValuesController(DataContext context)
         {
             _context = context;
@@ -21,17 +22,19 @@ namespace apiAngular.API.Controllers
         [HttpGet]
         public IActionResult GetValues()
         {
-            var values = _context.Values.ToList();
+            var values = _context.Value.ToList();
 
             return Ok(values);
         }
 
         // GET api/values/5
-        [HttpGet("{id}")]
-        public IActionResult GetValue(int id)
-        {
-            var values = _context.Values.FristOrDefault(x => x.Id == id);
-        }
+        // [HttpGet("{id}")]
+        // public IActionResult GetValue(int id)
+        // {
+        //     // var values = _context.Values.FristOrDefault(x => x.Id == id);
+
+        //     return 0;
+        // }
 
         // POST api/values
         [HttpPost]
