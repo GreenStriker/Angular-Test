@@ -1,0 +1,14 @@
+D:\Angular\New folder\Angular-Application\apiAngular\apiAngular.API\bin\Debug\netcoreapp2.2\apiAngular.API.deps.json
+D:\Angular\New folder\Angular-Application\apiAngular\apiAngular.API\bin\Debug\netcoreapp2.2\apiAngular.API.runtimeconfig.json
+D:\Angular\New folder\Angular-Application\apiAngular\apiAngular.API\bin\Debug\netcoreapp2.2\apiAngular.API.runtimeconfig.dev.json
+D:\Angular\New folder\Angular-Application\apiAngular\apiAngular.API\bin\Debug\netcoreapp2.2\apiAngular.API.dll
+D:\Angular\New folder\Angular-Application\apiAngular\apiAngular.API\bin\Debug\netcoreapp2.2\apiAngular.API.pdb
+D:\Angular\New folder\Angular-Application\apiAngular\apiAngular.API\obj\Debug\netcoreapp2.2\apiAngular.API.csprojAssemblyReference.cache
+D:\Angular\New folder\Angular-Application\apiAngular\apiAngular.API\obj\Debug\netcoreapp2.2\apiAngular.API.csproj.CoreCompileInputs.cache
+D:\Angular\New folder\Angular-Application\apiAngular\apiAngular.API\obj\Debug\netcoreapp2.2\apiAngular.API.RazorAssemblyInfo.cache
+D:\Angular\New folder\Angular-Application\apiAngular\apiAngular.API\obj\Debug\netcoreapp2.2\apiAngular.API.RazorAssemblyInfo.cs
+D:\Angular\New folder\Angular-Application\apiAngular\apiAngular.API\obj\Debug\netcoreapp2.2\apiAngular.API.AssemblyInfoInputs.cache
+D:\Angular\New folder\Angular-Application\apiAngular\apiAngular.API\obj\Debug\netcoreapp2.2\apiAngular.API.AssemblyInfo.cs
+D:\Angular\New folder\Angular-Application\apiAngular\apiAngular.API\obj\Debug\netcoreapp2.2\apiAngular.API.RazorTargetAssemblyInfo.cache
+D:\Angular\New folder\Angular-Application\apiAngular\apiAngular.API\obj\Debug\netcoreapp2.2\apiAngular.API.dll
+D:\Angular\New folder\Angular-Application\apiAngular\apiAngular.API\obj\Debug\netcoreapp2.2\apiAngular.API.pdb
